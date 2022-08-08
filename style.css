@@ -1,0 +1,26 @@
+.grid{
+    margin-top:80px;
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid black 1px;
+}
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(106, 0, 255);
+}
+.player{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(146, 91, 91);
+}
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: black;
+}
